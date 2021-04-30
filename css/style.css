@@ -41,6 +41,7 @@ input {
     box-sizing: border-box;
     max-width: 300px;
     appearance: none;
+    -webkit-appearance: none;
     padding: 10px 40px;
     border-style: none;
     border-radius: 05px;
