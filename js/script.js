@@ -2,7 +2,7 @@ let element = document.getElementById("dado");
 let dado = element.children[0];
 
 function result() {
-  let n = Math.round(Math.random() * 6);
+  let n = Math.round(Math.floor() * 7);
 
   element.classList.toggle("is-open");
 
